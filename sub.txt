@@ -1,3 +1,4 @@
+#profile-title: Leila VPN
 vless://fd49f9cd-6be8-46d0-a440-a7fa8a6fca1b@185.178.208.167:443?encryption=none&security=tls&sni=upload.4ch.pro&fp=firefox&type=ws&host=upload.4ch.pro&path=%2Fv1%2Fsync%2F16a0156e37cf5cb781a41f10#Белый_список
 vless://fd49f9cd-6be8-46d0-a440-a7fa8a6fca1b@185.178.208.140:443?encryption=none&security=tls&sni=ws.4ch.pro&fp=firefox&type=ws&host=ws.4ch.pro&path=%2Fv2%2Fupdates%2Fbf106e2ea8622d2f61f6a9#DE-Белый-список
 vless://fd49f9cd-6be8-46d0-a440-a7fa8a6fca1b@178.248.236.236:443?encryption=none&security=reality&sni=dune.4ch.pro&fp=firefox&pbk=VSPUhEWTrbOypXn-YmjkdMqgtUrNeE5tCUOIo2lftCw&sid=5324abeeeefc38d4&type=tcp#NL-Белый-список
