@@ -3,7 +3,7 @@ vless://c5392c2e-6e8e-45e9-b98f-986de6fd62f9@195.123.214.101:443?type=tcp&securi
 vless://c5392c2e-6e8e-45e9-b98f-986de6fd62f9@grcn11.mncdn.ru:443?type=tcp&security=reality&pbk=xY3I1qfhzIRPMEvAWdhGIjn5vk3Zf3juZwxaNzf5AyA&fp=firefox&sni=grcn11.mncdn.ru&sid=2f8a1c9e4b7d35&flow=xtls-rprx-vision&encryption=none#Germany-1
 vless://c5392c2e-6e8e-45e9-b98f-986de6fd62f9@swe-02.mansurchik.ru:443?type=tcp&security=reality&pbk=F78z_YmO8pTYbzydjIhl_QvY3a8TWAFIFEuMvR_wpB0&fp=firefox&sni=swe-02.mansurchik.ru&sid=a91f3c7d2e684b05&flow=xtls-rprx-vision&encryption=none#Sweden-2
 vless://c5392c2e-6e8e-45e9-b98f-986de6fd62f9@een11.mncdn.ru:443?type=tcp&security=reality&pbk=n10gmbSNurPP1T_kgtTKbgKZGJ_x-lOiODIfh90yAhY&fp=firefox&sni=een11.mncdn.ru&sid=eef10158dfd07096&flow=xtls-rprx-vision&encryption=none#Estonia-1
-vless://c5392c2e-6e8e-45e9-b98f-986de6fd62f9@195.123.214.233:443?type=tcp&security=reality&pbk=Lk3cuvtyzjYC2_gRPhLJa3QCH8W-m2EvpVQqvG3XtHk&fp=firefox&sni=lv-03.mansurchik.ru&sid=b58ea037925b57&flow=xtls-rprx-vision#Latvia-3
+hysteria2://c5392c2e-6e8e-45e9-b98f-986de6fd62f9@lv-01.mansurchik.ru:443?sni=lv-01.mansurchik.ru&alpn=h3&insecure=0#Latvia-1
 
 vless://c5392c2e-6e8e-45e9-b98f-986de6fd62f9@ee-01.mansurchik.ru:443?type=tcp&security=reality&pbk=nSE6dsm5Q3WM2Lo0dsbPDn2646cSBm0AKACsWZXP73E&fp=qq&sni=ee-01.mansurchik.ru&sid=4b9c1d7e2f8a35&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%20%E2%84%961
 vless://c5392c2e-6e8e-45e9-b98f-986de6fd62f9@beget-01.mansurchik.ru:4443?type=tcp&security=reality&pbk=t-4Nsl1bOhGG90LLTmYNjVi0N9ZqSAFpmoonxR-tRTQ&fp=qq&sni=beget-01.mansurchik.ru&sid=96c5beb5165cbe9c&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%E2%84%961
